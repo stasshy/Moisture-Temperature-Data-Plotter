@@ -32,7 +32,9 @@ Run the Python script to start real-time plotting: python startGraph.py
 
 ## Example Output
 
-![Example Plot](images/example_plot.jpg)
+![Example Plot]
+![test1](https://github.com/user-attachments/assets/231340f6-c01e-4ec6-9364-0a66868668dd)
+
 
 
 
